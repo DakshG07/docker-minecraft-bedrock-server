@@ -1,1 +1,1 @@
-web: bedrock_entry.sh EULA=TRUE -p $PORT
+web: bedrock-entry.sh EULA=TRUE -p $PORT
